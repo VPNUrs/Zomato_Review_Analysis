@@ -130,8 +130,10 @@ pip install -r requirements.txt
 
 3.Run the notebook or Python script.
 
+## 👤 Author
 
-
-Vayuputhra Raj Urs
+**Vayuputhra Raj Urs**  
+Cyber Security, Data Analytics & Machine Learning Enthusiast  
+Passionate about Data Science, NLP & Business Intelligence
 
 Cyber Security, Data Analytics & Machine Learning Enthusias
