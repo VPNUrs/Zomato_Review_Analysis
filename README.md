@@ -123,12 +123,16 @@ Two datasets were used:
 ## 📎 How to Run
 
 1. Clone the repository:
+
 git clone https://github.com/yourusername/zomato-sentiment-analysis.git
 
+
 2.Install Dependencies
+
 pip install -r requirements.txt
 
 3.Run the notebook or Python script.
+
 
 ## 👤 Author
 
@@ -136,4 +140,4 @@ pip install -r requirements.txt
 Cyber Security, Data Analytics & Machine Learning Enthusiast  
 Passionate about Data Science, NLP & Business Intelligence
 
-Cyber Security, Data Analytics & Machine Learning Enthusias
+
